@@ -1,1 +1,3 @@
-# Uptick_Lite_iOS
+# XQPackageTest
+
+A description of this package.
